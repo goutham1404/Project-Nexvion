@@ -1,4 +1,3 @@
-
 /* ==========================================================
    NEXVION STORE — MAIN FRONTEND JAVASCRIPT
    Demo frontend authentication/cart using localStorage.
